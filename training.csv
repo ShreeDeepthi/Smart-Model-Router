@@ -1,0 +1,7 @@
+text,label
+summarize this article,simple
+fix grammar in this sentence,simple
+generate login page html,medium
+create REST API in flask,medium
+build payment gateway backend,hard
+optimize neural network training,hard

@@ -1,0 +1,7 @@
+2026-01-29 20:53:31.273942 | simple | "summarize this article"
+2026-01-29 20:54:49.466087 | hard | optimize neural network training
+2026-01-29 20:55:20.963888 | medium | generate login page html
+2026-01-29 21:21:32.146467 | medium | generate login page html
+2026-01-29 21:22:04.704189 | hard | Neural network
+2026-01-29 21:22:24.931640 | hard | summarisation of a text
+2026-01-29 21:23:01.932871 | simple | summarize this article
